@@ -1,0 +1,2 @@
+# GamesZeradosDB
+Meus jogos Zerados. 
